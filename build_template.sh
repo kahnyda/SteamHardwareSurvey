@@ -1,0 +1,12 @@
+touch OSVersion.csv
+touch SystemRAM.csv
+touch IntelCPUSpeeds.csv
+touch PhysicalCPUs.csv
+touch VideoCardDescription.csv
+touch VRAM.csv
+touch PrimaryDisplayResolution.csv
+touch MultiMonitorDesktopResolution.csv
+touch Language.csv
+touch FreeHardDriveSpace.csv
+touch TotalHardDriveSpace.csv
+touch VRHeadsets.csv
