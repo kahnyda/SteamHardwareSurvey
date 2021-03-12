@@ -1,0 +1,1 @@
+statistics for all operating systems
